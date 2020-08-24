@@ -1,2 +1,4 @@
 - Tes bikin branch di GitHUb
  (tugas sanbercode)
+ 
+ tambah fitur 2
