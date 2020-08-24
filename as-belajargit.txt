@@ -1,5 +1,7 @@
 - Tes bikin branch di GitHUb
  (tugas sanbercode)
- 
- tambah fitur 2
- tambah lagi 
+
+ini fitur 1
+fitur 2
+tes tambah lagi
+master
